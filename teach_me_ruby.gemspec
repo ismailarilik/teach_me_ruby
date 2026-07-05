@@ -14,7 +14,7 @@ instructing you to complete coding exercises.'
   spec.homepage = 'https://github.com/ismailarilik/teach_me_ruby'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 4.0.5'
-  spec.metadata['allowed_push_host'] = "TODO: Set to your gem server 'https://example.com'"
+  spec.metadata['allowed_push_host'] = 'https://rubygems.org'
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/ismailarilik/teach_me_ruby'
   spec.metadata['changelog_uri'] = 'https://github.com/ismailarilik/teach_me_ruby/blob/main/CHANGELOG.md'
