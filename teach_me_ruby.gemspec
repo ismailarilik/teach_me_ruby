@@ -8,8 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ['ismailarilik']
   spec.email = ['arilik.ismail@gmail.com']
 
-  spec.summary = 'TODO: Write a short summary, because RubyGems requires one.'
-  spec.description = 'TODO: Write a longer description or delete this line.'
+  spec.summary = 'A command line program to teach us Ruby'
+  spec.description = 'teach_me_ruby is a command line script which aims, like its name, to teach you Ruby by \
+instructing you to complete coding exercises.'
   spec.homepage = 'https://github.com/ismailarilik/teach_me_ruby'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 3.2.0'
